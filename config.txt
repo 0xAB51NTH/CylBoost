@@ -1,0 +1,7 @@
+Filter: ON LSC Fc 150 Hz Gain 1 dB Q 0.9222
+Filter: ON LSC 6.6506 dB Fc 100 Hz Gain -1 dB
+Filter: ON LSC 12 dB Fc 30 Hz Gain 0.5 dB
+Filter: ON PK Fc 40 Hz Gain 2 dB Q 7.5
+Filter: ON PK Fc 30 Hz Gain 2 dB Q 7.5
+Filter: ON PK Fc 50 Hz Gain 2 dB Q 7.5
+Filter: ON LSC 3.6046 dB Fc 20 Hz Gain -1 dB
